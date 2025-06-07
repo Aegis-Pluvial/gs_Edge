@@ -137,3 +137,11 @@ void loop() {
   }
 }
 ```
+
+---
+# EQUIPE:
+
+Joao Vitor Piccolo - RM: 565127
+Luccas Figueira - RM:564240
+Enzo Brincalepe -  RM:562296
+
